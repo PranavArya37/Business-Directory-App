@@ -49,7 +49,7 @@ A React Native mobile application built with Expo that allows users to discover 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/business-directory.git
+   git clone https://github.com/PranavArya37/Business-Directory-App.git
    cd business-directory
    ```
 
