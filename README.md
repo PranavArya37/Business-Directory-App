@@ -1,8 +1,8 @@
-## Business Directory
+# Business Directory
 
 A React Native mobile application built with Expo that allows users to discover and connect with local businesses. Users can search for businesses by category, view business details like address, phone number, website and reviews, and even add their own businesses to the directory.
 
-### Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -11,7 +11,7 @@ A React Native mobile application built with Expo that allows users to discover 
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
-### Features
+## Features
 
 - **Business Listing:** Browse a curated list of businesses categorized for easy exploration.
 - **Business Details:** View comprehensive information about each business including name, image, phone number, website, address, about section, and user reviews.
@@ -21,7 +21,7 @@ A React Native mobile application built with Expo that allows users to discover 
 - **User Reviews and Ratings:**  Get insights from other users through their reviews and ratings on businesses.
 - **User Authentication:** Securely login and manage your profile using Clerk authentication with Google OAuth.
 
-### Screenshots
+## Screenshots
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ A React Native mobile application built with Expo that allows users to discover 
   </tr>
 </table>
 
-### Installation
+## Installation
 
 1. **Clone the Repository:**
 
@@ -90,7 +90,7 @@ A React Native mobile application built with Expo that allows users to discover 
    npx expo start
    ```
 
-### Usage
+## Usage
 
 1. **Sign in:** Upon launching the app, you'll be prompted to sign in with your Google account.
 2. **Browse Businesses:** Once signed in, you can explore the directory, view business listings, and access detailed information.
@@ -98,7 +98,7 @@ A React Native mobile application built with Expo that allows users to discover 
 4. **Add Business:**  Navigate to your profile and select "Add Business" to contribute a new listing.
 5. **Logout:** Securely log out from the application through your profile settings.
 
-### Technologies Used
+## Technologies Used
 
 - **React Native:**  A popular framework for building cross-platform mobile applications using JavaScript and React.
 - **Expo:** A set of tools and services that simplifies the process of building, deploying, and iterating on React Native applications.
@@ -110,7 +110,7 @@ A React Native mobile application built with Expo that allows users to discover 
 - **React Native Elements:**  A cross-platform UI toolkit for React Native.
 - **Expo Image Picker:** A component for selecting and uploading images from a user's device.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
